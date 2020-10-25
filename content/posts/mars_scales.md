@@ -1,7 +1,7 @@
 +++
 title = "Mass Scales for Living on Mars"
 date = 2020-10-24T15:52:11-04:00
-tags = [""]
+tags = ["Mars"]
 categories = [""]
 draft = false
 
