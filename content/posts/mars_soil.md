@@ -3,7 +3,7 @@ title = "Growing Food on Mars"
 date = 2021-01-10T10:24:23-05:00
 tags = ["Mars"]
 categories = [""]
-draft = false
+draft = true
 
 +++
 
