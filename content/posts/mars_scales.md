@@ -19,6 +19,7 @@ This scenario sets an upper bound on the cargo needed to sustain a human presenc
 In addition to setting an upper bound, this scenario demonstrates how the mass budget changes when different categories of goods are produced locally. That suggests an order in which goods should be made locally (see also: [Progression of space industrialization](https://caseyhandmer.wordpress.com/2020/08/23/progression-of-space-industrialization/)).
 
 ## What do humans need?
+
 Need is a strong word. For this exercise I'll assume a typical American material quality-of-life, to the extent that this is possible on Mars. The goal is to see what the mass cost is to support someone without making any lifestyle compromises. Those can come later if necessary once we know an upper bound on the mass cost.
 Humans need air, water, food, energy, shelter, and "other". Here "other" refers to miscellaneous goods including consumables (medicine, toiletries, etc.) as well as appliances, electronics, bedding, and so on. 
 
@@ -82,7 +83,7 @@ A Falcon 9 launch costs ~\\$60 million and has a similar payload capacity to an 
 much lower estimate of \\$60 million per Cargo-ton. Even with this lower estimate, supporting people on Mars via cargo from Earth is an
 expensive proposition of ~\$100 million per person per year. 
 
-How does this change in the future? SpaceX is currently building a new rocket called Starship, with a goal of having a reusable Starship launch [cost](https://www.space.com/spacex-starship-flight-passenger-cost-elon-musk.html, https://arstechnica.com/science/2020/03/inside-elon-musks-plan-to-build-one-starship-a-week-and-settle-mars/) \\$2 million and an expendable one cost \\$5 million. Starship is also designed to be able to refuel in Earth orbit, allowing it to take 150 tons of payload to Mars. Suppose we send each Starship on a one-way trip to Mars, and have to make of order 5 refueling launches for each. Then a cost of \\$15 million gives 150 tons of shipping to Mars,
+How does this change in the future? SpaceX is currently building a new rocket called Starship, with a goal of having a reusable Starship [launch](https://www.space.com/spacex-starship-flight-passenger-cost-elon-musk.html) [cost](https://arstechnica.com/science/2020/03/inside-elon-musks-plan-to-build-one-starship-a-week-and-settle-mars/) \\$2 million and an expendable one cost \\$5 million. Starship is also designed to be able to refuel in Earth orbit, allowing it to take 150 tons of payload to Mars. Suppose we send each Starship on a one-way trip to Mars, and have to make of order 5 refueling launches for each. Then a cost of \\$15 million gives 150 tons of shipping to Mars,
 or \\$100,000 per Cargo-ton.
 These are all rough estimates, but they serve to set the scale of the problem under different assumptions about local (Martian) production and technologies. Consider two kinds of shipping (current rockets versus starship) and two kinds of production (all on Earth versus water, shelter, and energy on Mars). From most expensive to least expensive these give four scenarios:
 

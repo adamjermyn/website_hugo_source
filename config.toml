@@ -1,11 +1,12 @@
 # Site settings
-baseurl = "https://adamjermyn.github.io/"
+baseurl = "http://adamjermyn.com/"
 relativeURLs = true
 
 languageCode = "en"
 title = "Adam Jermyn"
 theme = "hugo-theme-cactus-plus"
-googleAnalytics = ""
+googleAnalytics = "UA-186473758-1"
+
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false
 
@@ -18,7 +19,7 @@ unsafe= true
 	description = "Site Description"
 	bio = ""
 
-	twitter = "your_twitter_id"
+	twitter = "AdamSJermyn"
 
 	enableRSS = true
 	enableToc = false
@@ -75,5 +76,5 @@ unsafe= true
 
 # Add additional social link entries underneath
 [social]
-	twitter-square = "https://www.twitter.com/nodejh"
+	twitter-square = "https://www.twitter.com/AdamSJermyn"
 	github-square = "https://www.github.com/adamjermyn"

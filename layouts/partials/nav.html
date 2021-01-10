@@ -1,0 +1,14 @@
+<nav class="main-nav">
+	{{ $url := replace .Permalink .Site.BaseURL "" }}
+
+        <a href='{{ .Site.BaseURL }}'>{{ with .Site.Params.home }}{{ . }}{{ else }}About{{ end }}</a>
+	<a href='{{ .Site.BaseURL }}posts'>{{ with .Site.Params.archive }}{{ . }}{{ else }}Posts{{ end }}</a>
+	<a href='{{ .Site.BaseURL }}tags'>{{ with .Site.Params.tags }}{{ . }}{{ else }}Tags{{ end }}</a>
+        <a href='{{ .Site.BaseURL }}software'>{{ with .Site.Params.software }}{{ . }}{{ else }}Software{{ end }}</a>
+        <a href='{{ .Site.BaseURL }}workflow'>{{ with .Site.Params.workflow }}{{ . }}{{ else }}Workflow{{ end }}</a>
+
+	{{ range $key, $val := .Site.Params.Links }}
+		<a href="{{ $val }}">{{ $key }}</a>
+	{{ end }}
+
+</nav>
