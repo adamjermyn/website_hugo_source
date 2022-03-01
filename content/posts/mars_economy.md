@@ -2,7 +2,7 @@
 title = "An Economic Model of Martian Growth"
 date = 2020-11-15T16:33:47-05:00
 tags = [""]
-categories = [""]
+categories = ["Mars"]
 draft = false
 
 +++
